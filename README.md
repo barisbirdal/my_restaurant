@@ -1,4 +1,4 @@
-# my_restaurant
+# my_restaurant(java)
 This Java program is a **Restaurant Management System** that allows managing menu items, tables, orders, and reservations. Here's a summary of its functionalities:
 
 1. **Menu Management**:
